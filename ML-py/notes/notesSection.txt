@@ -1,0 +1,30 @@
+notes on week 1 section 1:
+
+Regression/Estimation: Predicting continuous values (price of house)
+Classification: Predicting the item class/category of a case (benign or malignant)
+Clustering: Finding the structure of data; summarization (finding similar patients)
+Associations: Associating frequent co-occurring events/items (grocery items bought together)
+
+Anomaly Detection: abnormal and unusual cases (like Fraud)
+Sequence Mining: Predicting next events
+Dimension Reduction: Reducing the size of data (PCA)
+Recommendation Systems: Recommending items
+
+
+Top Libraries for ML in Python:
+  Numpy, SciPy, Matplotlib, Pandas, and most importantly Scikit Learn (works with Scipy and Numpy, and is easy to implement
+
+The order is to clean data, split it into testing and training, use the model with the training data, and then test it
+
+Supervised vs Unsupervised Learning:
+  Supervised -> We train the model by labeling data
+  Popular techniques -> Classification ( predict category )
+                     -> Regression ( Predict numerical value )
+
+Data can be numerical or categorical.
+
+  Unsupervised -> trained by unlabeled data
+  Popular techniques -> Dimension reduction ( removing redundant elements )
+                     -> Density Estimation ( Final Structure )
+                     -> Market Basket Analysis ( if you buy this product, most probably you're gonna buy these products )
+                     -> Clustering ( Grouping the similar data )
