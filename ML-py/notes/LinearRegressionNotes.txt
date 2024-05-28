@@ -1,0 +1,22 @@
+Linear regression:
+There are 1 or more independent variables & 1 dependent variable (has to be continuous, not discrete) called Goal or Result.
+Simple regression: 1 (independent) to 1 (dependent) and can be (linear/non-Linear)
+Multiple Regression: more than 1 (independent) to 1 (dependent) and can be (linear/non-Linear)
+Examples: sales forecasting, employment income, price estimation
+
+Simple Linear Regression:
+Y hat = θ0 + θ1 * X1
+Y hat is the response variable
+Theta 0 is the intercept
+Theta 1 is the slope
+X1 is the independent variable
+
+We aim for finding the line on the graph which has the least error error is the (actual value - line’s value) for a x, the less the better also called Mean Square Error (MSE) = 1/n ∑i=1 to n (yi - y”hat”i)squared
+
+Θ0 = ybar - θ1 * xbar
+Θ1 = (∑i=1 to 3 (xi - x”bar”)*(yi - y”bar”))/∑i=1 to 3 (xi - x”bar”)squared
+
+Pros of linear regression:
+Very fast
+No parameter tuning
+Easy to understand and highly interpretable
