@@ -7,5 +7,7 @@
 <li>Activation functions and their types
 <li>Building Regression model using keras
 <li>Building Classification model using keras
+<li>Supervised Deep Learning Algorithms (Convolutional NN, Recurrent NN, LSTM)</li>
+<li>Unsupervised Deep Learning Algorithms (AutoEncoder: Restricted Boltzmann Machines)</li>
 </i>
 </ul>
