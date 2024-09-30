@@ -4,5 +4,6 @@
 <i>
 <li>Machine Learning with python IBM</li>
 <li>Deep Neural Networks with keras IBM</li>
+<li>Deep NN with PyTorch</li>
 </i>
 </ol>
